@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "name1",
+      "statement": "ahoi",
+      "documents": [
+        {
+          "name": "doc1"
+        }
+      ]
+    },
+    { "name": "name2", "statement": "yess", "id": 2 },
+    { "name": "name3", "statement": "hi all", "id": 3 },
+    { "name": "name4", "statement": "whatt up", "id": 4 },
+    { "name": "name6", "statement": "smile at me", "id": 5 }
+  ]
+}
